@@ -1,2 +1,6 @@
 # BIRD_INFO
 ANDROID PROJECT
+
+
+USERNAME - Vijay
+PASSWORD - Vijaypatil@12
